@@ -138,6 +138,7 @@ def salir():
     print("Gracias por usar nuestro sistema!!!")
 
 def descuentos():
+	print("Modificacion")
     pass
 
 def ingresar_mercaderia():
