@@ -137,6 +137,9 @@ def salir():
     conexion_producto.cerrar()
     print("Gracias por usar nuestro sistema!!!")
 
+def descuentos():
+    pass
+
 def ingresar_mercaderia():
     print("\n*******Ingresar Producto*******")
     print("1 - Ingresar un producto")
